@@ -1,0 +1,10 @@
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/bin/Debug/netcoreapp2.0/WebApp.deps.json
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/bin/Debug/netcoreapp2.0/WebApp.runtimeconfig.json
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/bin/Debug/netcoreapp2.0/WebApp.runtimeconfig.dev.json
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/bin/Debug/netcoreapp2.0/WebApp.dll
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/bin/Debug/netcoreapp2.0/WebApp.pdb
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/obj/Debug/netcoreapp2.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/obj/Debug/netcoreapp2.0/WebApp.AssemblyInfoInputs.cache
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/obj/Debug/netcoreapp2.0/WebApp.AssemblyInfo.cs
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/obj/Debug/netcoreapp2.0/WebApp.dll
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/WebApp/obj/Debug/netcoreapp2.0/WebApp.pdb

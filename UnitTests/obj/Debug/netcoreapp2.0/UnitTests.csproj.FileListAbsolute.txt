@@ -1,0 +1,16 @@
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/UnitTests.deps.json
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/UnitTests.runtimeconfig.json
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/UnitTests.runtimeconfig.dev.json
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/UnitTests.dll
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/UnitTests.pdb
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/WebApp.dll
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/bin/Debug/netcoreapp2.0/WebApp.pdb
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/obj/Debug/netcoreapp2.0/UnitTests.csproj.CoreCompileInputs.cache
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/obj/Debug/netcoreapp2.0/UnitTests.AssemblyInfoInputs.cache
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/obj/Debug/netcoreapp2.0/UnitTests.AssemblyInfo.cs
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/obj/Debug/netcoreapp2.0/UnitTests.csproj.CopyComplete
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/obj/Debug/netcoreapp2.0/UnitTests.dll
+/Users/houssem/Desktop/Linkedin-Learning/AngularCrudLocal/AspnetWebApp/UnitTests/obj/Debug/netcoreapp2.0/UnitTests.pdb
